@@ -79,3 +79,6 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+
+- ## Redis, Socket.IO, and Node Integration
+This Turborepo is designed to seamlessly integrate with Redis, Socket.IO, and Node.js for robust real-time communication. Leveraging Redis for pub/sub messaging and Socket.IO for WebSocket-based communication, the chat features of your applications can achieve high performance and scalability. Node.js serves as the backend runtime, providing a robust environment for server-side logic. For more information on integrating these technologies, refer to the relevant documentation and explore the power of real-time communication in your Turborepo applications.
